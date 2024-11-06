@@ -8,11 +8,11 @@ and identify key trends in cancellations and renewals. The final deliverable is 
 dashboard that presents your analysis.
 ### Tools used
 ---
-The following tools wher used to analyze the data to ensure all duplicate are removed and the data was cleaned.
+The following tools where used to analyze the data to ensure all duplicate are removed and the data was cleaned.
 - Excel
 - Structured Query Language
 - Power BI
-
+-Microsoft Excel [Download Here](https://docs.google.com/spreadsheets/d/1_FI8-POawtOQTOZnNUR2hfewNkmbNTMRjomc7QbK7tc/edit?gid=776224025#gid=776224025).
 Instructions:
 1. Excel:
 - Analyze customer data using pivot tables to find subscription patterns.
