@@ -12,7 +12,7 @@ The following tools where used to analyze the data to ensure all duplicate are r
 - Excel
 - Structured Query Language
 - Power BI
-  ---
+  
 -Microsoft Excel [Download Here](https://docs.google.com/spreadsheets/d/1_FI8-POawtOQTOZnNUR2hfewNkmbNTMRjomc7QbK7tc/edit?gid=776224025#gid=776224025).
 
 
