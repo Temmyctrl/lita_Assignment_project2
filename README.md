@@ -15,22 +15,22 @@ The following tools wher used to analyze the data to ensure all duplicate are re
 
 Instructions:
 1. Excel:
-o Analyze customer data using pivot tables to find subscription patterns.
-o Calculate the average subscription duration and identify the most popular 
+- Analyze customer data using pivot tables to find subscription patterns.
+- Calculate the average subscription duration and identify the most popular 
 subscription types.
-o Create any other interesting reports.
+- Create any other interesting reports.
 2. SQL:
 Hint – You need to load the dataset into your SQL Server environment to write 
 and validate your queries.
 Write queries to extract key insights based on the following questions. 
-o retrieve the total number of customers from each region.
-o find the most popular subscription type by the number of customers.
-o find customers who canceled their subscription within 6 months.
-o calculate the average subscription duration for all customers.
-o find customers with subscriptions longer than 12 months.
-o calculate total revenue by subscription type.
-o find the top 3 regions by subscription cancellations.
-o find the total number of active and canceled subscriptions.
+- retrieve the total number of customers from each region.
+- find the most popular subscription type by the number of customers.
+- find customers who canceled their subscription within 6 months.
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
+- calculate total revenue by subscription type.
+- find the top 3 regions by subscription cancellations.
+- find the total number of active and canceled subscriptions.
 3. Power BI:
-o Build a Power BI dashboard that visualizes key customer segments, 
+- Build a Power BI dashboard that visualizes key customer segments, 
 cancellations, and subscription trends. Include slicers for interactive analysis
