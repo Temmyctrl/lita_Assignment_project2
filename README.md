@@ -15,6 +15,7 @@ The following tools where used to analyze the data to ensure all duplicate are r
   
 -Microsoft Excel [Download Here]((https://docs.google.com/spreadsheets/d/14zqyQQfBVyXfTJU0UmmOIEyLFd8bvWs35y6NqxZIMow/edit?gid=1543531996#gid=1543531996)
 
+```Create database Costumerproject
 
 Select * from [dbo].[Customer Data]
 ------retrieve the total number of customer for each region------
@@ -38,4 +39,3 @@ from[dbo].[Customer Data]
 Select customerid, SubscriptionType,subscriptionstart, subscriptionend
 From[dbo].[Customer Data]
 where Datediff ( month, subscriptionstart, subscriptionend) > 12
-
