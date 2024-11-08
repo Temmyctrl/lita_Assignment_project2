@@ -13,7 +13,7 @@ The following tools where used to analyze the data to ensure all duplicate are r
 - Structured Query Language
 - Power BI
   
--Microsoft Excel [Download Here]((https://docs.google.com/spreadsheets/d/14zqyQQfBVyXfTJU0UmmOIEyLFd8bvWs35y6NqxZIMow/edit?gid=1543531996#gid=1543531996)
+-Microsoft Excel [Download Here](https://docs.google.com/spreadsheets/d/14zqyQQfBVyXfTJU0UmmOIEyLFd8bvWs35y6NqxZIMow/edit?gid=1543531996#gid=1543531996).
 
 ```Create database Costumerproject
 
