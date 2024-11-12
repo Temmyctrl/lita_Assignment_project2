@@ -9,9 +9,9 @@ dashboard that presents your analysis.
 ### Tools used
 ---
 The following tools where used to analyze the data to ensure all duplicate are removed and the data was cleaned.
-- Excel
-- Structured Query Language
-- Power BI
+- Excel: was used to analysed the average and  sum all the revenue generated from each packages
+- Structured Query Language: This was used to analysed the data to show some specific functions based on what was needed
+- Power BI: This is done using graphical representation and analysis of the customer data.
   
 -Microsoft Excel [Download Here](https://docs.google.com/spreadsheets/d/14zqyQQfBVyXfTJU0UmmOIEyLFd8bvWs35y6NqxZIMow/edit?gid=1543531996#gid=1543531996).
 
