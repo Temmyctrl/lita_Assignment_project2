@@ -14,9 +14,11 @@ The following tools where used to analyze the data to ensure all duplicate are r
 -Microsoft Excel [Download Here](https://docs.google.com/spreadsheets/d/14zqyQQfBVyXfTJU0UmmOIEyLFd8bvWs35y6NqxZIMow/edit?gid=1543531996#gid=1543531996).
 
 - Power BI: This is done using graphical representation and analysis of the customer data.
-  
-- Structured Query Language: This was used to analysed the data to show some specific functions based on what was needed
 - 
+  ![image](https://github.com/user-attachments/assets/640a66a1-a090-4c2e-9879-e8a6caff6988)
+
+- Structured Query Language: This was used to analysed the data to show some specific functions based on what was needed
+
 ```Create database Costumerproject
 
 Select * from [dbo].[Customer Data]
